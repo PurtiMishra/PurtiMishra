@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring the domain of Web Development.
 - 📫 You can reach me out at purtimishra35ae@gmail.com .
 
-<!---
-PurtiMishra/PurtiMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My technical Skills include:
+Programming in C,C++
+In development I am familiar with HTML,CSS,JavaScript.
+![rrr](https://user-images.githubusercontent.com/91051576/165360957-2de3d045-1424-4467-823f-5ed167b51612.gif)
