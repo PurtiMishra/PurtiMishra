@@ -23,6 +23,9 @@ My GitHub Stats
 Most used languages
 (https://github-readme-stats.vercel.app/api/top-langs/?username=PurtiMishra)
 
+![JXA0](https://user-images.githubusercontent.com/91051576/170815677-9880af87-b558-44b8-aff0-72287c3a34e2.gif)
+
+
 
 
 
