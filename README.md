@@ -18,4 +18,4 @@ In development I am familiar with HTML,CSS,JavaScript.
 ![rrr](https://user-images.githubusercontent.com/91051576/165360957-2de3d045-1424-4467-823f-5ed167b51612.gif)
 
 
-![GitHub Stats]https://github-readme-stats.vercel.app/api?username=PurtiMishra&theme=radical
+
