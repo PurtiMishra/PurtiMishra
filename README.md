@@ -19,3 +19,8 @@ In development I am familiar with HTML,CSS,JavaScript.
 
 
 
+
+(https://github-readme-stats.vercel.app/api?username=PurtiMishra&theme=radical)
+
+
+
