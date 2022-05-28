@@ -14,8 +14,8 @@ Programming in C,C++
 
 In development I am familiar with HTML,CSS,JavaScript.
 
+![JXA0](https://user-images.githubusercontent.com/91051576/170815677-9880af87-b558-44b8-aff0-72287c3a34e2.gif)
 
-![rrr](https://user-images.githubusercontent.com/91051576/165360957-2de3d045-1424-4467-823f-5ed167b51612.gif)
 
 My GitHub Stats
 (https://github-readme-stats.vercel.app/api?username=PurtiMishra&theme=radical)
