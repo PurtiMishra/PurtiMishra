@@ -17,8 +17,8 @@ In development I am familiar with HTML,CSS,JavaScript.
 ![JXA0](https://user-images.githubusercontent.com/91051576/170815677-9880af87-b558-44b8-aff0-72287c3a34e2.gif)
 
 
-My GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=PurtiMishra&theme=radical)
+![Purti's github stats](https://github-readme-stats.vercel.app/api?username=PurtiMishra&count_private=true&show_icons=true&theme=radical)
+
 
 Most used languages
 (https://github-readme-stats.vercel.app/api/top-langs/?username=PurtiMishra)
