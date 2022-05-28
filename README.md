@@ -24,5 +24,5 @@ In development I am familiar with HTML,CSS,JavaScript.
 
 
 
-<b>Thank You For Visiting My Profile</b>
+<h1>Thank You For Visiting My Profile</h1>
 
