@@ -20,12 +20,12 @@ In development I am familiar with HTML,CSS,JavaScript.
 ![Purti's github stats](https://github-readme-stats.vercel.app/api?username=PurtiMishra&count_private=true&show_icons=true&theme=radical)
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PurtiMishra&show_icons=true&locale=en&layout=compact" alt="PurtiMishra" /></p>
+
+
+
+
+
+
 Most used languages
 (https://github-readme-stats.vercel.app/api/top-langs/?username=PurtiMishra)
-
-
-
-
-
-
-
