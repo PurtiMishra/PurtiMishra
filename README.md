@@ -26,6 +26,3 @@ In development I am familiar with HTML,CSS,JavaScript.
 
 
 
-
-Most used languages
-(https://github-readme-stats.vercel.app/api/top-langs/?username=PurtiMishra)
