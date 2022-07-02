@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PurtiMishra
-- 🎓 I'm a freshman at Banasthali Vidyapith, Jaipur.
+- 🎓 I'm a sophomore at Banasthali Vidyapith, Jaipur.
 - 👀 I’m currently getting along with Data Structures and Alogrithms.
 - 🌱 I’m currently exploring the domain of Web Development.
 - ⭐ I have huge inclination in the field of Development, UI/UX Designing and Competitive programming.
