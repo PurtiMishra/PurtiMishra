@@ -12,7 +12,7 @@ My technical Skills include:
 Programming in C,C++
 
 
-In development I am familiar with HTML,CSS,JavaScript.
+In development I am familiar with HTML,CSS,Bootstrap, JavaScript, Reactjs, ExpressJs, NodeJs, MondoDb.
 
 ![JXA0](https://user-images.githubusercontent.com/91051576/170815677-9880af87-b558-44b8-aff0-72287c3a34e2.gif)
 
